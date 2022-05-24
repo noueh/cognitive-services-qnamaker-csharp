@@ -44,7 +44,7 @@ Use the following information to understand and implement the TSV format for bat
 |Expected answer ID|optional (only when expected answer ID is given)|
 |Judgment label|optional, values could be: correct or incorrect (only when expected answer is given)|
 
-## TSV output fields for QnA Maker managed (preview)
+## TSV output fields for Custom question answering
 
 |TSV Output file parameters|Notes|
 |--|--|
